@@ -1,0 +1,8 @@
+{
+  "name": "FretMaster AI Live",
+  "description": "Real-time percussive fingerstyle guitar tutor using Gemini Live API for instant feedback on rhythm, technique, and arrangement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
